@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kemer83.
+- 👋 Hi, I’m @Kemer83, my name is encoded in the nickname.
 - 👀 I’m interested in electrical engineering, engineering, surveying, drones, Harley Davidson.
 - 🌱 I’m currently learning: I want to do a PhD.
 - 💞️ I’m looking to collaborate on learning programming from scratch.
